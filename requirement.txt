@@ -1,0 +1,4 @@
+ollama
+langchain
+langchain_community
+pypdf
