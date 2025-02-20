@@ -1,0 +1,6 @@
+# Ignore sensitive files
+data/token.txt
+
+# Ignore virtual environments
+venv/
+*.dylib
